@@ -60,7 +60,7 @@ function App() {
         <div className="container">
           <div className="row align-items-center">
             <div className="col-lg-6">
-              <img src="https://via.placeholder.com/600x400" alt="About Us" className="img-fluid" />
+              <img src="./img/i2.jpg" alt="About Us" className="img-fluid" />
             </div>
             <div className="col-lg-6">
               <h2>About OptimaQuant Capital</h2>
@@ -79,7 +79,7 @@ function App() {
           <div className="row">
             <div className="col-md-4">
               <div className="card h-100">
-                <img src="https://via.placeholder.com/600x400" className="card-img-top" alt="Mid-Frequency Trading" />
+                <img src="./img/i5.webp" className="card-img-top" alt="Mid-Frequency Trading" />
                 <div className="card-body">
                   <h5 className="card-title">Mid-Frequency Trading</h5>
                   <p className="card-text">Capturing market opportunities with speed and precision.</p>
@@ -88,7 +88,7 @@ function App() {
             </div>
             <div className="col-md-4">
               <div className="card h-100">
-                <img src="https://via.placeholder.com/600x400" className="card-img-top" alt="Algorithm Development" />
+                <img src="./img/i4.webp" className="card-img-top" alt="Algorithm Development" />
                 <div className="card-body">
                   <h5 className="card-title">Algorithm Development</h5>
                   <p className="card-text">Proprietary algorithms adapted to evolving market conditions.</p>
@@ -97,7 +97,7 @@ function App() {
             </div>
             <div className="col-md-4">
               <div className="card h-100">
-                <img src="https://via.placeholder.com/600x400" className="card-img-top" alt="Risk Management" />
+                <img src="./img/i3.webp" className="card-img-top" alt="Risk Management" />
                 <div className="card-body">
                   <h5 className="card-title">Risk Management</h5>
                   <p className="card-text">Robust frameworks to manage volatility and protect capital.</p>
@@ -118,7 +118,7 @@ function App() {
               <p>We continually refine our systems to maintain scalability and precision.</p>
             </div>
             <div className="col-lg-6">
-              <img src="https://via.placeholder.com/600x400" alt="Technology" className="img-fluid" />
+              <img src="./img/i6.webp" alt="Technology" className="img-fluid" />
             </div>
           </div>
         </div>
@@ -135,7 +135,7 @@ function App() {
                 <div className="card-body">
                   <h5 className="card-title">Quantitative Analyst</h5>
                   <p className="card-text">Develop and refine trading algorithms for dynamic markets.</p>
-                  <a href="#contact" className="btn btn-dark">Apply Now</a>
+                 
                 </div>
               </div>
             </div>
@@ -144,7 +144,7 @@ function App() {
                 <div className="card-body">
                   <h5 className="card-title">Algorithmic Trader</h5>
                   <p className="card-text">Execute trades using proprietary algorithms.</p>
-                  <a href="#contact" className="btn btn-dark">Apply Now</a>
+                 
                 </div>
               </div>
             </div>
@@ -153,7 +153,7 @@ function App() {
                 <div className="card-body">
                   <h5 className="card-title">Software Engineer</h5>
                   <p className="card-text">Develop the technological backbone of our trading systems.</p>
-                  <a href="#contact" className="btn btn-dark">Apply Now</a>
+                 
                 </div>
               </div>
             </div>
@@ -185,7 +185,7 @@ function App() {
           </ul>
           <p className="small">Follow us on:</p>
           <div>
-            <a href="#" className="text-light me-3"><i className="fab fa-linkedin"></i> LinkedIn</a>
+            <a href="https://www.linkedin.com/company/optimaquant-capital" className="text-light me-3"><i className="fab fa-linkedin"></i> LinkedIn</a>
           </div>
         </div>
       </footer>
